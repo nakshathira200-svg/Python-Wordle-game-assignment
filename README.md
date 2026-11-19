@@ -1,4 +1,14 @@
-# Scenario 17 — Wordle
+# LAB 4 — WORDLE GAME
+
+**Student Name:** Nakshathira Bharathi  
+**SRN:** PES2UG24AM096  
+**Lab:** 4  
+**Assignment:** Scenario 17 — Wordle Game  
+**Language:** Python  
+
+---
+
+## Scenario 17 — Wordle
 
 A terminal Wordle-style game with duplicate-letter scoring and guess history.
 
